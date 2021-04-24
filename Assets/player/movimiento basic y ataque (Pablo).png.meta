@@ -1,0 +1,1572 @@
+fileFormatVersion: 2
+guid: 019afde7cc4f07148ae4b33984466843
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8154308128469294516
+    second: movimiento basic y ataque (Pablo)_0
+  - first:
+      213: -4226356828093636410
+    second: movimiento basic y ataque (Pablo)_1
+  - first:
+      213: 108455795744985809
+    second: movimiento basic y ataque (Pablo)_2
+  - first:
+      213: 1768696132855376203
+    second: movimiento basic y ataque (Pablo)_3
+  - first:
+      213: -1670105556633161548
+    second: movimiento basic y ataque (Pablo)_4
+  - first:
+      213: 291952763649240201
+    second: movimiento basic y ataque (Pablo)_5
+  - first:
+      213: -5121411179320701914
+    second: movimiento basic y ataque (Pablo)_6
+  - first:
+      213: 6770448588469423875
+    second: movimiento basic y ataque (Pablo)_7
+  - first:
+      213: 1663603494917066440
+    second: movimiento basic y ataque (Pablo)_8
+  - first:
+      213: -3622760292697447072
+    second: movimiento basic y ataque (Pablo)_9
+  - first:
+      213: 1204212557250301153
+    second: movimiento basic y ataque (Pablo)_10
+  - first:
+      213: 3776219816624128749
+    second: movimiento basic y ataque (Pablo)_11
+  - first:
+      213: 7467669142336965843
+    second: movimiento basic y ataque (Pablo)_12
+  - first:
+      213: -2270823983828282237
+    second: movimiento basic y ataque (Pablo)_13
+  - first:
+      213: -1591584659780444552
+    second: movimiento basic y ataque (Pablo)_14
+  - first:
+      213: 6251043370532150821
+    second: movimiento basic y ataque (Pablo)_15
+  - first:
+      213: 812976853786372962
+    second: movimiento basic y ataque (Pablo)_16
+  - first:
+      213: 9216189219542047737
+    second: movimiento basic y ataque (Pablo)_17
+  - first:
+      213: 935691559603946604
+    second: movimiento basic y ataque (Pablo)_18
+  - first:
+      213: 3720645882736011609
+    second: movimiento basic y ataque (Pablo)_19
+  - first:
+      213: -1403118020399477822
+    second: movimiento basic y ataque (Pablo)_20
+  - first:
+      213: -8239107433070095986
+    second: movimiento basic y ataque (Pablo)_21
+  - first:
+      213: -2098057449147727337
+    second: movimiento basic y ataque (Pablo)_22
+  - first:
+      213: 2214523386182451167
+    second: movimiento basic y ataque (Pablo)_23
+  - first:
+      213: 8888665255913354509
+    second: movimiento basic y ataque (Pablo)_24
+  - first:
+      213: -3157738616520037068
+    second: movimiento basic y ataque (Pablo)_25
+  - first:
+      213: 1141796399340543226
+    second: movimiento basic y ataque (Pablo)_26
+  - first:
+      213: 7713527037300504565
+    second: movimiento basic y ataque (Pablo)_27
+  - first:
+      213: -7728979528059856221
+    second: movimiento basic y ataque (Pablo)_28
+  - first:
+      213: 3251349495217624118
+    second: movimiento basic y ataque (Pablo)_29
+  - first:
+      213: 8759671240606124233
+    second: movimiento basic y ataque (Pablo)_30
+  - first:
+      213: -2174169719413842692
+    second: movimiento basic y ataque (Pablo)_31
+  - first:
+      213: -4969511804475566473
+    second: movimiento basic y ataque (Pablo)_32
+  - first:
+      213: 681143922865714783
+    second: movimiento basic y ataque (Pablo)_33
+  - first:
+      213: -5211809871615847967
+    second: movimiento basic y ataque (Pablo)_34
+  - first:
+      213: 1787594382357523787
+    second: movimiento basic y ataque (Pablo)_35
+  - first:
+      213: 8837443879648103976
+    second: movimiento basic y ataque (Pablo)_36
+  - first:
+      213: 1544020342787786741
+    second: movimiento basic y ataque (Pablo)_37
+  - first:
+      213: -3863640576721071531
+    second: movimiento basic y ataque (Pablo)_38
+  - first:
+      213: -3776530275093280161
+    second: movimiento basic y ataque (Pablo)_39
+  - first:
+      213: 7626222929506106662
+    second: movimiento basic y ataque (Pablo)_40
+  - first:
+      213: -6893338821255422623
+    second: movimiento basic y ataque (Pablo)_41
+  - first:
+      213: -7098418032435729860
+    second: movimiento basic y ataque (Pablo)_42
+  - first:
+      213: -2477845475975689603
+    second: movimiento basic y ataque (Pablo)_43
+  - first:
+      213: -3224881281258731267
+    second: movimiento basic y ataque (Pablo)_44
+  - first:
+      213: -6559086794947240302
+    second: movimiento basic y ataque (Pablo)_45
+  - first:
+      213: 7169623270353032709
+    second: movimiento basic y ataque (Pablo)_46
+  - first:
+      213: -8296636576888607719
+    second: movimiento basic y ataque (Pablo)_47
+  - first:
+      213: 5014521813620725946
+    second: movimiento basic y ataque (Pablo)_48
+  - first:
+      213: 4672507334171967813
+    second: movimiento basic y ataque (Pablo)_49
+  - first:
+      213: -7241802829133992215
+    second: movimiento basic y ataque (Pablo)_50
+  - first:
+      213: -2688580346207586567
+    second: movimiento basic y ataque (Pablo)_51
+  - first:
+      213: 5528063938981339267
+    second: movimiento basic y ataque (Pablo)_52
+  - first:
+      213: 183342164950199084
+    second: movimiento basic y ataque (Pablo)_53
+  - first:
+      213: -1529899531757002690
+    second: movimiento basic y ataque (Pablo)_54
+  - first:
+      213: -8711383001893165967
+    second: movimiento basic y ataque (Pablo)_55
+  - first:
+      213: 437857854608990361
+    second: movimiento basic y ataque (Pablo)_56
+  - first:
+      213: 6258568951229271763
+    second: movimiento basic y ataque (Pablo)_57
+  - first:
+      213: 3915874009561824921
+    second: movimiento basic y ataque (Pablo)_58
+  - first:
+      213: -5817167279540182408
+    second: movimiento basic y ataque (Pablo)_59
+  - first:
+      213: 382086979798095514
+    second: movimiento basic y ataque (Pablo)_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 230
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd1e7a1a0ce92170800000000000000
+      internalID: 8154308128469294516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 230
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0ae676bd6f855c0800000000000000
+      internalID: -4226356828093636410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 230
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2563bb8ff418100800000000000000
+      internalID: 108455795744985809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 230
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49a37a03cbab8810800000000000000
+      internalID: 1768696132855376203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 230
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0797748d792d8e0800000000000000
+      internalID: -1670105556633161548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 230
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ca180ed793d0400800000000000000
+      internalID: 291952763649240201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 230
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c00e3baa71de8b0800000000000000
+      internalID: -5121411179320701914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 230
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc3cdae1775fd50800000000000000
+      internalID: 6770448588469423875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 231
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce41a1809e461710800000000000000
+      internalID: 1663603494917066440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 230
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065e06f35be59bdc0800000000000000
+      internalID: -3622760292697447072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 230
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec08fcc0f836b010800000000000000
+      internalID: 1204212557250301153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 230
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de20cab7ae3d76430800000000000000
+      internalID: 3776219816624128749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 198
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc0421058d72a760800000000000000
+      internalID: 7467669142336965843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 197
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3845a783e996c70e0800000000000000
+      internalID: -2270823983828282237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 197
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e53db3f2e89e9e0800000000000000
+      internalID: -1591584659780444552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 199
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e112873da20c650800000000000000
+      internalID: 6251043370532150821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 198
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b2d842426484b00800000000000000
+      internalID: 812976853786372962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 198
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9695044b76ef70800000000000000
+      internalID: 9216189219542047737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 198
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c644685148e3cfc00800000000000000
+      internalID: 935691559603946604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 198
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959ef7fa7b362a330800000000000000
+      internalID: 3720645882736011609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 198
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbc320389f178ce0800000000000000
+      internalID: -1403118020399477822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 198
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e819399317fc8ad80800000000000000
+      internalID: -8239107433070095986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 198
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7120031bdd332e2e0800000000000000
+      internalID: -2098057449147727337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 166
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf333469419bbe10800000000000000
+      internalID: 2214523386182451167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 167
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d057212c4f1ea5b70800000000000000
+      internalID: 8888665255913354509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 165
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d2acc65757d24d0800000000000000
+      internalID: -3157738616520037068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc538496c978df00800000000000000
+      internalID: 1141796399340543226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 166
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7faafe8f3fb0b60800000000000000
+      internalID: 7713527037300504565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 166
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aad9b1b1162db490800000000000000
+      internalID: -7728979528059856221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 166
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6349717b32d1f1d20800000000000000
+      internalID: 3251349495217624118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_30
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 165
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c88885259a909970800000000000000
+      internalID: 8759671240606124233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 166
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc5de0d82cc3d1e0800000000000000
+      internalID: -2174169719413842692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 166
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7769f1be75fb80bb0800000000000000
+      internalID: -4969511804475566473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 166
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56b35bf9c8e37900800000000000000
+      internalID: 681143922865714783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_34
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 134
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1967df88eeba7b0800000000000000
+      internalID: -5211809871615847967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 134
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d67e2ae9fcec810800000000000000
+      internalID: 1787594382357523787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 132
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e00e0c268e4aa70800000000000000
+      internalID: 8837443879648103976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 133
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7c7d932567d6510800000000000000
+      internalID: 1544020342787786741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 134
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55251ccad57916ac0800000000000000
+      internalID: -3863640576721071531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 134
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a8e8549b1179bc0800000000000000
+      internalID: -3776530275093280161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d76235959c5d960800000000000000
+      internalID: 7626222929506106662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 134
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d19a25dd0f550a0800000000000000
+      internalID: -6893338821255422623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 134
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ae075986a5d7d90800000000000000
+      internalID: -7098418032435729860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 134
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a0924faacec9dd0800000000000000
+      internalID: -2477845475975689603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 134
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df844c39f8bee33d0800000000000000
+      internalID: -3224881281258731267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 103
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ed630cf4179f4a0800000000000000
+      internalID: -6559086794947240302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 101
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50654cac06e9f7360800000000000000
+      internalID: 7169623270353032709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 99
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91caa04adfc6cdc80800000000000000
+      internalID: -8296636576888607719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 99
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab89f4b7509279540800000000000000
+      internalID: 5014521813620725946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 71
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5414ab71aa418d040800000000000000
+      internalID: 4672507334171967813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 71
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeac0412b2ff7b90800000000000000
+      internalID: -7241802829133992215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_51
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 70
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6333a7b6e30bad0800000000000000
+      internalID: -2688580346207586567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_52
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 70
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38021a21dd0a7bc40800000000000000
+      internalID: 5528063938981339267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_53
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 38
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b25364abc5b8200800000000000000
+      internalID: 183342164950199084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_54
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 38
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30669b4b74b4cae0800000000000000
+      internalID: -1529899531757002690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_55
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 38
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17428cd8053fa1780800000000000000
+      internalID: -8711383001893165967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 38
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990651e1665931600800000000000000
+      internalID: 437857854608990361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de4f444d47ead650800000000000000
+      internalID: 6258568951229271763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_58
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 6
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99efd1d1aaaf75630800000000000000
+      internalID: 3915874009561824921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_59
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8726bff0e25454fa0800000000000000
+      internalID: -5817167279540182408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento basic y ataque (Pablo)_60
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 6
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96da2075127d4500800000000000000
+      internalID: 382086979798095514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
